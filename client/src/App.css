@@ -1,0 +1,68 @@
+.background-img{
+    background-image: url('./components/images/back.jpg');
+     background-repeat: no-repeat;
+     background-size: cover;
+    /* width: 50px ; */
+    height:567px;
+}
+
+.RegisterPosition{
+    position: relative;
+    bottom:180px;
+}
+.RegisterformPosition{ 
+    position: relative;
+   left:450px ;
+   top:50px;
+   width:300px;
+   height:350px;
+}
+
+.formPosition{ 
+     position: relative;
+    left:450px ;
+    top:50px;
+    width:300px;
+    height:300px;
+    
+ }
+
+ 
+
+ .inputPosition{
+     position: relative;
+     bottom:130px;
+ }
+
+.background-List{
+    background-image: url('./components/images/bluestp.jpg');
+     /* background-repeat: no-repeat; */
+     /* background-size:; */
+    /* width: 50px ; */
+    /* height:550px; */
+ }
+
+.showBack{
+    background-image: url('./components/images/bluestp.jpg');
+     background-repeat: no-repeat;
+     background-size:cover;
+    height:550px;
+}
+
+.addBack{
+    background-image: url('./components/images/add.jpg');
+     background-repeat: no-repeat;
+     background-size:cover;
+    height:550px;
+}
+ .bckcolor{
+    background-color: #044771;
+ }
+
+ .form{
+     width:70%;
+     position: relative;
+     left:40px;
+ }
+
+ /* style={{background:'rgb(153,204,255)'}} */
